@@ -1,0 +1,21 @@
+
+
+.result {
+  display:none;
+  margin: 1.5%;
+  padding: 2.5%;
+  border: .5px solid #DA667B;
+  border-radius: 6px;
+
+}
+
+.true {
+  display: inline-flex;
+  color: #F3A1C1; 
+}
+
+.false {
+  display: inline-flex;
+  color: #FFD6AF ; 
+  background-color: #FBF87D; 
+}
